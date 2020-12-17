@@ -1,0 +1,25 @@
+
+body{
+    display: flex;
+    height: 100vh;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(to right, #ff44ff, #f4f4);
+}
+.heading{
+    text-align: center;
+    font-size: 2.5rem;
+    color: #f4f4f4;
+    margin-bottom: 2rem;
+}
+input{
+    margin-right: 2rem;
+}
+.container{
+    text-align: center;
+}
+.text{
+    color: #fff;
+    margin: 2rem;
+}
